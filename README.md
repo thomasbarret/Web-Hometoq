@@ -1,5 +1,8 @@
 # Web-Hometoq
 
+Projet non open source
+Non-open source project
+
 ## Sommaire  
 - [Présentation en Français](#présentation-en-français)  
 - [Presentation in English](#presentation-in-english)  
