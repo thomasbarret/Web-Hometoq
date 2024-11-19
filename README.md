@@ -1,7 +1,6 @@
 # Web-Hometoq
 
-Projet non open source
-Non-open source project
+**Projet non open source** - **Non-open source project**
 
 ## Sommaire  
 - [Présentation en Français](#présentation-en-français)  
